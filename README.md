@@ -193,3 +193,4 @@ Is anything still unclear? Please [open an issue][meta] or
 [meta]: https://github.com/coq-community/manifesto/issues/new?template=meta.md
 
 [openlogos]: https://github.com/arasatasaygin/openlogos
+#Test
